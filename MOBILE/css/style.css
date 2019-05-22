@@ -108,3 +108,7 @@ iframe{
 .outline img{
     margin-top: 0;   
 }
+
+h3 iframe{
+    margin-bottom: 10px;
+}
